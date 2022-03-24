@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\ExceptionChallenge\ExceptionChallenge\bin\Debug\ExceptionChallenge.exe.config
+C:\Users\sande\source\repos\ExceptionChallenge\ExceptionChallenge\bin\Debug\ExceptionChallenge.exe
+C:\Users\sande\source\repos\ExceptionChallenge\ExceptionChallenge\bin\Debug\ExceptionChallenge.pdb
+C:\Users\sande\source\repos\ExceptionChallenge\ExceptionChallenge\obj\Debug\ExceptionChallenge.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\ExceptionChallenge\ExceptionChallenge\obj\Debug\ExceptionChallenge.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\ExceptionChallenge\ExceptionChallenge\obj\Debug\ExceptionChallenge.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\ExceptionChallenge\ExceptionChallenge\obj\Debug\ExceptionChallenge.exe
+C:\Users\sande\source\repos\ExceptionChallenge\ExceptionChallenge\obj\Debug\ExceptionChallenge.pdb

@@ -51,6 +51,7 @@ namespace ExceptionChallenge.Entities
             {
                 throw new DomainException("ERROR! Insufficient Funds.");
             }
+            Balance -= amount;
         }
 
     }
